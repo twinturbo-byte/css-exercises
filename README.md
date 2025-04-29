@@ -36,4 +36,4 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 ## Complete Exercise
 ### foundations
 #### intro-to-css
-- [x] [01-css-methods](foundations/intro-to-css/01-css-methods/index.html)
+- [01-css-methods](foundations/intro-to-css/01-css-methods/index.html)
