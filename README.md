@@ -33,5 +33,7 @@ If you have suggestions to improve an exercise, ideas for a new exercise, or not
 - You may need to add some elements to your HTML to get things into the right spot. (For the first few exercises, we make it explicit when this needs to happen.)
 - You may need to add more selectors to your CSS file. The first few exercises have almost everything already done for you, but as you progress, you'll find that you need to add more and more selectors to get the correct result.
 
-## Completed Exercise
-[a relative link](foundations/intro-to-css/01-css-methods/index.html)
+## Complete Exercise
+### foundations
+#### intro-to-css
+- [x] [01-css-methods](foundations/intro-to-css/01-css-methods/index.html)
